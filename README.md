@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C , JAVA**
 
-- 🤝 I’m looking for help with [Javascript](https://github.com/jindvir/Web.git)
+- 🤝 I’m looking for help in [Javascript for Web Development](https://github.com/jindvir/Web.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jindvir](https://github.com/jindvir)
 
