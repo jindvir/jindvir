@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Jindvir Singh</h1>
 <h3 align="center">A Guy Learning New Stuff</h3>
 
-/*- 🔭 I’m currently working on [Web Development](https://github.com/jindvir/Web.git)*/
+- 🔭 I’m currently working on [Web Development](https://github.com/jindvir/Web.git)
 
 - 🌱 I’m currently learning **C , JAVA**
 
-/*- 🤝 I’m looking for help in [Javascript for Web Development](https://github.com/jindvir/Web.git)*/
+- 🤝 I’m looking for help in [Javascript for Web Development](https://github.com/jindvir/Web.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jindvir](https://github.com/jindvir)
 
